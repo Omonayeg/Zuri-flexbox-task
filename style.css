@@ -96,7 +96,7 @@ button:hover {
     color:w white;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1024px) {
     .container {
         display: flex;
         flex-direction: column;
