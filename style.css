@@ -103,8 +103,8 @@ button:hover {
     }
 
     .card {
-        width: 65%;
-        padding: 45px;
+        width: 80%;
+        padding: 50px;
         border-radius: 4px;
     }
 }
