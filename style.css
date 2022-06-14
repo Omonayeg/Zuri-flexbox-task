@@ -55,7 +55,7 @@ button:hover {
     align-items: center;
     justify-content: center;
     color: hsla(0, 0%, 100%, 0.75);
-    margin-top: 2%;
+    margin-top: 5px;
 }
 
 .card {
