@@ -127,12 +127,6 @@ button:hover {
     background-color: rgb(14, 13, 13);
 }
 
-.grid-head {
-    display: flex;
-    justify-content: center;
-    margin-top: 2%;
-}
-
 .wrapper {
     width: 50%;
     margin: 1% auto 3%;
