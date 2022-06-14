@@ -182,5 +182,5 @@ button:hover {
 @media (max-width: 600px) {
     .wrapper {
         width: 80%;
-        margin: 12% auto 6%;
+        margin: 6px auto 6%;
     }
